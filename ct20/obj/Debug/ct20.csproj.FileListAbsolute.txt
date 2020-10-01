@@ -1,0 +1,10 @@
+C:\Users\colin\source\repos\ct20\ct20\bin\Debug\ct20.exe.config
+C:\Users\colin\source\repos\ct20\ct20\bin\Debug\ct20.exe
+C:\Users\colin\source\repos\ct20\ct20\bin\Debug\ct20.pdb
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.csprojAssemblyReference.cache
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.Form1.resources
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.Properties.Resources.resources
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.csproj.GenerateResource.cache
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.exe
+C:\Users\colin\source\repos\ct20\ct20\obj\Debug\ct20.pdb
